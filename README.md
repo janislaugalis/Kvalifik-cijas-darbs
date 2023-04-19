@@ -1,2 +1,2 @@
-# Kvalifik-cijas-darbs
+# Kvalifikacijas-darbs
 4PT Kvalifikācijas darbs
